@@ -67,7 +67,7 @@ nav a{
 }
 
 .banner-txt{
-  padding-top: 2em;
+  padding-top: 3em;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -126,5 +126,32 @@ p{
 ul{
   margin: 0;
   list-style-type: none;
-  padding-left: 1;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+h4{
+  padding-left: 1em;
+  padding-bottom: 0.5em;
+  padding-top: 1em;
+  margin: 0;
+}
+
+.map{
+  width: 100%;
+  margin: 0;
+}
+
+footer{
+  background-color: #009444;
+  padding: 1em;
+  margin: 0;
+}
+
+.top{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  font-weight: bold;
 }
