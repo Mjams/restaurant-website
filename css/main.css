@@ -47,6 +47,10 @@ nav li{
   list-style-type: none;
 }
 
+a:hover{
+  color: green;
+}
+
 nav a{
   text-align: center;
   display: block;
